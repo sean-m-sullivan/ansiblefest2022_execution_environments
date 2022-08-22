@@ -1,0 +1,2 @@
+# ansiblefest2022_execution_environments
+Understanding best practices around building automation execution environments
